@@ -1,4 +1,4 @@
-https://img.shields.io/github/license/MarjadeSordi/alurakut
+<img src='https://img.shields.io/github/license/MarjadeSordi/alurakut' /> 
 
 # Example app with styled-components
 
